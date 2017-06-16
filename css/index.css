@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+body{
+	width: 100%;
+	min-height: 100vh;
+	background-color: #191919;
+	font-size: 62.5%;
+	font-family: 黑体;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	min-height: 100vh;
+	position: relative;
+}
+
+.container img{
+	width: calc(100% - 3rem);
+	margin-top: 2rem;
+}
+
+.bottomimg{
+	transform: rotate(180deg);
+	position: absolute;
+	bottom: 2rem;
+}
+
+.text{
+ 	color: #fff;
+ 	font-size: 3.6rem;
+ 	color:#bfad6f;
+ 	text-align: center;
+ 	margin-top: 1.6rem;
+}
+.text1{
+ 	color: #fff;
+ 	font-size: 3.6rem;
+ 	color:#bfad6f;
+ 	margin-top: 1.6rem;
+}
+
+.jinrubutton{
+	width: calc(100% - 8.0rem);
+	height: 2.8rem;
+	border:.2rem solid #bfad6f;
+	color: #bfad6f;
+	font-size: 1.6rem;
+	text-align: center;
+	line-height: 2.8rem;
+ 	margin-top: 20%;
+ 	margin-bottom: 10rem;
+}
