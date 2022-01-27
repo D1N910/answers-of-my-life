@@ -1,6 +1,6 @@
 <h1>
 	这个项目的名字是  <i style="color:#bfad6f; ">答案之书</i>
-	<a href='https://www.d1n910.cn/dazs'>https://www.d1n910.com/dazs</a>
+	~~<a href='https://www.d1n910.cn/dazs'>https://www.d1n910.com/dazs</a>~~
 </h1>
 <p>
 	项目名称就是它的功能，用户可以通过这个程序获得自己想要知道的答案
